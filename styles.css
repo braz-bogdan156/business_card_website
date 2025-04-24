@@ -83,14 +83,29 @@
   }
   
   .projects, .contact {
-    padding: 4rem 1rem;
+    
     background: #1c1c1c;
     text-align: center;
   }
+  .projects{
+    padding: 3rem 1rem;
+  }
+
+  .contact {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
   
   .projects h2, .contact h2 {
-    margin-bottom: 2rem;
+    
     font-size: 2rem;
+  }
+  .projects h2{
+    margin-bottom: 2rem;
+  }
+  .contact h2 {
+  
+    margin-bottom: 1rem;
   }
   
   .projects ul {
